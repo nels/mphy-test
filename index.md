@@ -2,5 +2,5 @@
 
 Dishes:
 
- - Pizzax
- - Mexicans
+ - Pizza
+ - Mexican
