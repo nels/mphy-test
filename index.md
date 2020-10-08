@@ -1,6 +1,6 @@
 # Secret recipes
 
-Some recipes
+Dishes:
 
  - Pizzax
  - Mexicans
