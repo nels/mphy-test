@@ -1,3 +1,3 @@
-# Secret recipies
+# Secret recipes
 
-Some recipies 
+Some recipes
